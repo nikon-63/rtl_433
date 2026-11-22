@@ -171,6 +171,7 @@ add_library(r_433 STATIC
     devices/blueline.c
     devices/blyss.c
     devices/bm5.c
+    devices/boss_therm.c
     devices/brennenstuhl_rcs_2044.c
     devices/bresser_3ch.c
     devices/bresser_5in1.c
